@@ -327,6 +327,9 @@ h3 {
   border: 1px solid #4D6174;
   left: 150px;
   color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* line 248, ../../Arafath/CL/CL October/217. Real Estate/HTML/scss/theme-default.scss */
